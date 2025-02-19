@@ -34,7 +34,7 @@
     ![image](https://github.com/user-attachments/assets/728018c2-90cb-4805-b3fd-b71cd24c34e6)
 
 
-# Static Website Hosting# 
+# Static Website Hosting # 
 1. Upload a new index.html file.
    ![image](https://github.com/user-attachments/assets/ef1c23ad-1c1c-4b5c-a8ec-da83f39bcb74)
 2. Go to the bucket properties--> scroll down and at the bottom you can see static website hosting--> Click on edit--> Enable--> and then index document is index.html--> save changes.
