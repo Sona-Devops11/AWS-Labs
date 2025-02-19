@@ -10,14 +10,14 @@
 
 3. In the left navigation pane, choose General purpose buckets.
 4. a) Choose a bucket name, it must be across all regions and all accounts ever created in aws.
-   ![image](https://github.com/user-attachments/assets/1d654b9a-b2f5-45aa-aae3-2e13c1bf3afa)
-   b) AWS allows you to copy an existing bucket's settings to your new bucket. If you do not want to copy the settings of an existing bucket, skip to the next step.
-   c) Under Ownership, ACLs(Access Control List) is disabled.
-   d) Next, Enable the blocking bucket policy as it so that it will block all the public access. By default, your bucket is always private.
-   e) Under Bucket Versioning, keep it disable. We will see later, how to enable it.
-   f) No tags are needed and Keep everything as default.
+   ![image](https://github.com/user-attachments/assets/1d654b9a-b2f5-45aa-aae3-2e13c1bf3afa) <br>
+   b) AWS allows you to copy an existing bucket's settings to your new bucket. If you do not want to copy the settings of an existing bucket, skip to the next step.<br>
+   c) Under Ownership, ACLs(Access Control List) is disabled.<br>
+   d) Next, Enable the blocking bucket policy as it so that it will block all the public access. By default, your bucket is always private.<br>
+   e) Under Bucket Versioning, keep it disable. We will see later, how to enable it.<br>
+   f) No tags are needed and Keep everything as default.<br>
    g) Click on “Create Bucket”.
-   ![image](https://github.com/user-attachments/assets/4e88202a-69ea-4b96-9862-41179b25fdae)
+   ![image](https://github.com/user-attachments/assets/4e88202a-69ea-4b96-9862-41179b25fdae) <br>
 
 ## Upload file ## 
 5. Go inside your bucket. Let’s upload object--> click on upload--> add files--> then choose this coffee.jpeg file--> also see the destination of the file--> click on upload.
